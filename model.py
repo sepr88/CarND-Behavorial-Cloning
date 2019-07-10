@@ -169,8 +169,7 @@ class BehavorialCloning():
 
 def main():
     bc = BehavorialCloning()
-    # bc.import_data(path='/opt/carnd_p3/data/', validation_size=0.15)
-    bc.import_data(path='/home/workspace/CarND-Behavioral-Cloning-P3/data/', validation_size=0.15)
+    bc.import_data(path='./data', validation_size=0.15)
     bc.train(epochs=5, batch_size=128)  
 
 if __name__ == '__main__':
