@@ -70,7 +70,7 @@ Although, the histogram in Figure 2 indicates a rather unbalanced dataset, which
 
 ## Video
 
-<a href="video.mp4" target="_blank"><img src="./img/video_thumbnail.jpg" title="Behavorial Cloning Simulator" alt="Video"></a>
+<a href="https://youtu.be/Ho9vgsgIt3E" target="_blank"><img src="./img/video_thumbnail.jpg" title="Behavorial Cloning Simulator" alt="Video"></a>
 
 
 
